@@ -1,4 +1,4 @@
 # Omnifood
-First Website with Jonas course
+First Website of the Jonas.io course
 
 https://spetvisual.github.io/omnifood/
